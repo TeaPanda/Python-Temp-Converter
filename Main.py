@@ -34,3 +34,7 @@ if unit.capitalize() == "C":
 else:
     k = c + 273.15
     print("Btw, your temperature in Kelvins is" , k)
+
+
+print("")
+input("Press any key to exit")
